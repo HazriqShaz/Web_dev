@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    min-width: 400px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table td{
+    border: 1px solid;
+    padding: 12px;
+}
+
+td img {
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header {
+    font-weight: bold;
+}
